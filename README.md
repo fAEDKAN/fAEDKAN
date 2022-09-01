@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello World! 👋
 
-<!--
-**fAEDKAN/fAEDKAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bienvenidos a mi perfil, mi nombre es **Federico**.
 
-Here are some ideas to get you started:
+### Estoy estudiando para ser Full-Stack Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### :hammer_and_wrench: Lenguajes & Herramientas:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,nodejs,react,bootstrap,heroku,md,github,vscode,ps,figma)](https://skillicons.dev)
+
+
+### Me podés encontrar en:
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://skillicons.dev)
+
+
+[enlace en línea](http://www.limni.net)
