@@ -1,6 +1,6 @@
-## Hello World! 👋
+## <Hello World!> 👋
 
-### Bienvenidos a mi perfil, mi nombre es **Federico**.
+### Bienvenidos a mi perfil, mi nombre es __Federico__.
 
 #### Estoy estudiando para Full-Stack Developer.
 
@@ -12,5 +12,5 @@
 
 #### Me podés encontrar en:
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sommafederico1/) X [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/somma.federico/) X [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sommafeder1co)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sommafederico1/)          [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/somma.federico/)          [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sommafeder1co)
 
