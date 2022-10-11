@@ -1,16 +1,16 @@
-# 👋 Ｈｅｌｌｏ Ｗｏｒｌｄ！( ͡❛ ͜ʖ ͡❛)👉
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70075&width=435&lines=%F0%9F%91%8B+Hello+World!)](https://git.io/typing-svg)
 
 **********************************************************************
 
-## 👨‍💻 𝔼𝕤𝕥𝕦𝕕𝕚𝕒𝕟𝕥𝕖 𝔽𝕦𝕝𝕝-𝕊𝕥𝕒𝕔𝕜 𝔻𝕖𝕧. (👍 ͡ಥ ͜ʖ ͡ಥ)👍
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=75F700&width=435&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Estudiante+Full-Stack+Dev.)](https://git.io/typing-svg)
 
 **********************************************************************
 
-### - 🎮 𝐀𝐩𝐚𝐬𝐢𝐨𝐧𝐚𝐝𝐨 𝐝𝐞 𝐥𝐨𝐬 𝐣𝐮𝐞𝐠𝐮𝐢𝐭𝐨𝐬. 👊( ͡❛ ͜ʖ͡❛ )👊
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8E%AE+Apasionado+de+los+jueguitos.)](https://git.io/typing-svg)
 
-### - 💬 𝐌𝐞 𝐠𝐮𝐬𝐭𝐚 𝐥𝐚 𝐟𝐢𝐥𝐨𝐬𝐨𝐟𝐢́𝐚. ✍( ͡❛ ͜ʖ͡❛ )
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%AC+Me+gusta+la+filosof%C3%ADa.)](https://git.io/typing-svg)
 
-### - 🔭 𝐀𝐦𝐚𝐧𝐭𝐞 𝐝𝐞 𝐥𝐚 𝐚𝐬𝐭𝐫𝐨𝐧𝐨𝐦𝐢́𝐚. ( ͡❛ ͜ʖ͡❛ )👌
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%94%AD+Amante+de+la+astronom%C3%ADa.)](https://git.io/typing-svg)
 
 **********************************************************************
 
