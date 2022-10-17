@@ -13,3 +13,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=fAEDKAN&theme=dracula&hide_border=true&border_radius=2.5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=fa6d95)
+
+![Snake animation](https://github.com/thepiyushmalhotra/fAEDKAN/blob/output/github-contribution-grid-snake.svg)
