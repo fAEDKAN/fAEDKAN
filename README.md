@@ -14,4 +14,5 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=fa6d95)
 
-![Snake animation](https://github.com/thepiyushmalhotra/fAEDKAN/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
