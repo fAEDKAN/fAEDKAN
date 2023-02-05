@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-	<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=78d9f9&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Estudiante+de+Full-Stack+Dev."></a>
+	<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=78d9f9&center=true&vCenter=true&width=435&lines=%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Full-Stack+Developer."></a>
 </p>
 
 <p align='center'>
