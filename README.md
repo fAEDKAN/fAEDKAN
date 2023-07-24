@@ -20,15 +20,3 @@
 	<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
  </a>&nbsp;&nbsp;
 </p>
-
-<p align='center'>
-	<a href="#"><img src="https://streak-stats.demolab.com?user=fAEDKAN&theme=dracula&hide_border=true&border_radius=2.5&date_format=j%20M%5B%20Y%5D"></a>
-</p>
-
-<p align='center'>
-	<a href="#"><img src="https://komarev.com/ghpvc/?username=fAEDKAN&style=for-the-badge&color=fa6d95"></a>
-</p>
-
-<p align='center'>
-	<a href="#"><img src="https://github.com/fAEDKAN/fAEDKAN/blob/output/github-contribution-grid-snake.svg"></a>
-</p>
