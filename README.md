@@ -59,6 +59,8 @@
 
 <br clear="both">
 
-![snake](https://github.com/fAEDKAN/fAEDKAN/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://github.com/fAEDKAN/fAEDKAN/blob/output/github-contribution-grid-snake-dark.svg"/>
+</div>
 
 ###
