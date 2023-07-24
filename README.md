@@ -1,10 +1,10 @@
+![Header](./header-image.png)
+
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=1500&pause=1000&color=89DDFF&center=true&vCenter=true&multiline=true&width=550&height=103&lines=Hey+there!%F0%9F%91%8B%F0%9F%8F%BB;My+name+is+fAEDKAN.;Front-End+Developer+from+Argentina." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=25&duration=3000&pause=500&color=89DDFF&center=true&vCenter=true&multiline=true&width=650&height=75&lines=Tech+enthusiast%2C+fascinated+by+astronomy%2C+;huge+fan+of+video+games+and+pizza+lover." alt="Typing SVG" /></a>
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=fAEDKAN&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=4&date_format=j M[ Y]" height="175" alt="streak graph"  />
