@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/fAEDKAN/fAEDKAN/blob/output/github-contribution-grid-snake.gif)
+
 
 ###
