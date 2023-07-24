@@ -1,7 +1,7 @@
 ![Header](./header-image.png)
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=25&duration=3000&pause=500&color=89DDFF&center=true&vCenter=true&multiline=true&width=650&height=75&lines=Tech+enthusiast%2C+fascinated+by+astronomy%2C+;huge+fan+of+video+games+and+pizza+lover." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&weight=400&size=25&duration=3000&pause=500&color=89DDFF&center=true&vCenter=true&multiline=true&width=650&height=75&lines=Tech+enthusiast%2C+fascinated+by+astronomy%2C+;huge+fan+of+video+games+and+pizza+lover." alt="Typing SVG" /></a>
 </div>
 
 ###
