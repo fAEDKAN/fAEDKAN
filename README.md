@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=fAEDKAN&locale=en&mode=daily&theme=material-palenight&hide_border=true&border_radius=4&date_format=j M[ Y]" height="175" alt="streak graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fAEDKAN&border_radius=20&date_format=j%20M%5B%20Y%5D&background=45%2C616161%2C000000&stroke=FFE370&ring=FCFCFC&fire=FFE370&sideNums=FFE370&border=FFFFFF&currStreakNum=FFE370&sideLabels=FCFCFC&currStreakLabel=FFE370&dates=FCFCFC" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fAEDKAN&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=material-palenight&hide_border=true" height="175" alt="languages graph"  />
 </div>
 
